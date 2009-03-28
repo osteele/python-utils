@@ -1,8 +1,9 @@
 """An OO interface to the "GraphViz":http://www.research.att.com/sw/tools/graphviz/ open source graph drawing software.
 """
 
-__author__ = "Oliver Steele <steele@cs.brandeis.edu>"
-__copyright__ = "Copyright 1999-2001 by Oliver Steele.  All rights reserved."
+__author__ = "Oliver Steele <steele@osteele.com>"
+__copyright__ = "Copyright 1999-2001 by Oliver Steele."
+__license__ = "Python License"
 __version__ = '1.0a2'
 
 class Graph:

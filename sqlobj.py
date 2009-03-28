@@ -1,6 +1,10 @@
 """ sqlobj --- Connection object and middleware for SQL
 """
 
+__author__ = "Oliver Steele <steele@osteele.com>"
+__copyright__ = "Copyright 1999-2001 by Oliver Steele."
+__license__ = "Python License"
+
 #
 # Database Connection
 #

@@ -1,8 +1,8 @@
-""" Module xsd --- Model an XSD ("XML Schema
-Definition":http://www.w3.org/XML/Schema) """
+""" Module xsd --- Model an XSD ("XML Schema Definition":http://www.w3.org/XML/Schema) """
 
-__author__ = "Oliver Steele <steele@cs.brandeis.edu>"
-__copyright__ = "Copyright 2001 by Oliver Steele.  All rights reserved."
+__author__ = "Oliver Steele <steele@osteele.com>"
+__copyright__ = "Copyright 1999-2001 by Oliver Steele."
+__license__ = "Python License"
 __version__ = 'alpha (prerelease)'
 
 from __future__ import nested_scopes
